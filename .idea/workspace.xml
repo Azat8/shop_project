@@ -1,16 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="18875800-c4f7-4580-9c5e-03eb868ead1d" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/template/images/cabinet/itunes-43-100x100.png" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/template/images/VAIO - images (10).jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/template/images/VAIO - images (13).jpg" afterPath="" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/config/routes.php" afterPath="$PROJECT_DIR$/config/routes.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/index.php" afterPath="$PROJECT_DIR$/index.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/models/Form.php" afterPath="$PROJECT_DIR$/models/Form.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/views/cabinet/index.php" afterPath="$PROJECT_DIR$/views/cabinet/index.php" />
-    </list>
+    <list default="true" id="18875800-c4f7-4580-9c5e-03eb868ead1d" name="Default" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -24,7 +15,7 @@
       <file leaf-file-name="Form.php" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/models/Form.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="422">
+            <state relative-caret-position="-193">
               <caret line="28" column="17" lean-forward="true" selection-start-line="28" selection-start-column="17" selection-end-line="28" selection-end-column="17" />
               <folding>
                 <marker date="1500393341742" expanded="true" signature="351:396" ph="INSERT INTO cabinet... " />
@@ -360,12 +351,12 @@
       <option name="presentableId" value="Default" />
       <updated>1500313203615</updated>
       <workItem from="1500313205071" duration="4724000" />
-      <workItem from="1500373463494" duration="11073000" />
+      <workItem from="1500373463494" duration="11155000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="15797000" />
+    <option name="totallyTimeSpent" value="15879000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
@@ -541,7 +532,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/models/Form.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="422">
+        <state relative-caret-position="-193">
           <caret line="28" column="17" lean-forward="true" selection-start-line="28" selection-start-column="17" selection-end-line="28" selection-end-column="17" />
           <folding>
             <marker date="1500393341742" expanded="true" signature="351:396" ph="INSERT INTO cabinet... " />
