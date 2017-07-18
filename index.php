@@ -9,6 +9,7 @@
 //
 //echo preg_replace($pattern,$replace,$string).'<br/>';
 
+define('BASE_URL', 'http://localhost/');
 ini_set('display_errors',1);
 error_reporting(E_ALL);
 

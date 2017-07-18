@@ -12,5 +12,6 @@ return [
     'register' => 'user/register',
     'user/login' => 'user/login',
     'cabinet' => 'cabinet/index',
+    'cabinet/userAvatar' => 'cabinet/userAvatar',
     'logout' => 'user/logout',
 ];
